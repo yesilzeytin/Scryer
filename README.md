@@ -3,6 +3,8 @@
 
 Scryer is an advanced waveform viewer and debugger designed for complex RTL debugging. Unlike traditional viewers that simply parse Value Change Dump (VCD/FST) files, Scryer is aiming to actively parse the structural RTL netlist alongside the waveform database. This would allow for hierarchical grouping, deep structural tracing, and advanced analytics directly within the waveform context.
 
+**Note that this repository is currently under development, and runs only a single waveform file for now. Thus, this version is pretty unfinished as of now.**
+
 ## Core Features
 
 - **High-Performance Rendering**: Built on WebGL via PixiJS to handle millions of transitions without dropping frames.
