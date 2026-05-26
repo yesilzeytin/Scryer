@@ -1,0 +1,6 @@
+@software{Scryer,
+  author = {Ugur Nezir (yesilzeytin@github)},
+  title = {Scryer Waveform Debugger: An open-source alternative to commercial waveform debuggers},
+  url = {https://github.com/yesilzeytin/Scryer},
+  year = {2026}
+}
