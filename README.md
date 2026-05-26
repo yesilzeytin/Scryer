@@ -57,3 +57,8 @@ The frontend uses Electron and React (bootstrapped via `electron-vite`).
 - **DEVELOPER_GUIDE.md**: In-depth architectural details, state management patterns, and backend port communication protocols.
 - **Future_Goals.md**: Planned roadmap features including protocol decoding and python API integration.
 - **CHANGELOG.md**: History of features and bug fixes.
+
+## Copyright and License
+Required Notice: Copyright 2026 Ugur Nezir (yesilzeytin@github) - Scryer Waveform Debugger
+
+This software is licensed under the PolyForm Noncommercial License 1.0.0.
