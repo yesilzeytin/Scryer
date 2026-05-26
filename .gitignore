@@ -1,0 +1,38 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build Outputs
+/frontend/out/
+/frontend/dist/
+/frontend/.vite/
+/frontend/build/
+/frontend/electron.zip
+*.exe
+*.dll
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv/
+venv/
+ENV/
+
+# OS/Editor Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# AI Artifacts
+.gemini/
+brain/
+artifacts/
+
+# Scryer Specific
+/backend/.scryer_port
+*.fst
+*.vcd

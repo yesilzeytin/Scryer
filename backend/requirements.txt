@@ -1,0 +1,11 @@
+fastapi>=0.103.0
+uvicorn>=0.23.2
+websockets>=11.0.3
+pytest>=7.4.2
+black>=23.9.1
+flake8>=6.1.0
+mypy>=1.5.1
+pdoc>=14.0.0
+# pywellen is currently a placeholder for the Rust core engine wrapper
+# pip install might fail if no windows wheels are available and Rust is missing.
+pywellen
