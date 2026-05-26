@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.1.1] - 2026-05-26
+- Updated licensing information.
+- Included citation for future references.
+
 ## [0.1.0] - 2026-05-25
 
 ### Added
