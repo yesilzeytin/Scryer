@@ -1,3 +1,6 @@
+## Notice of Cancelation
+Unfortunately, my legal obligations require me to stop development on this project. Thus, I will do offline developments for the project for personal use only. If anyone would like to discuss about the implementation ideas behind the project or want to take over can feel free to contact me.  
+
 # Scryer
 **An Open-Source Structural Waveform Debugger**
 
